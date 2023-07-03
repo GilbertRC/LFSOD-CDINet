@@ -17,5 +17,5 @@ The code and results will come in soon.
          journal = {IEEE Transactions on Circuits and Systems for Video Technology},
          year = {2023},
          doi = {10.1109/TCSVT.2023.3290600},
-}            
+        }            
 ```
