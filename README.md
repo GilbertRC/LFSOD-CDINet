@@ -7,7 +7,7 @@ The code and results will come in soon.
 
 <div align=center>
   <img src="https://github.com/GilbertRC/LFSOD-CDINet/blob/main/Images/CDINet.png">
-<div>
+</div>div>
 
 # Citation
         @ARTICLE{Chen_2023_CDINet,
