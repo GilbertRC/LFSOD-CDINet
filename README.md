@@ -7,7 +7,7 @@ The code will come in soon.
 python 3.7 + TensorFlow 1.14.0
 
 Note: We provide a modified [layer.py](https://pan.baidu.com/s/18d5XrK3LlIGjbWWsCFLVog) (code: 7d8i) for TensorFlow 1.14.0. The added function 'layer_norm_initialized()' enables initializing Layer_Norm with pre-trained parameters.
-You can put it under `your_Anaconda_envs/Lib/site-packages/tensorflow/contrib/layers/python/layers/`.
+You can put it under 'your_Anaconda_envs/Lib/site-packages/tensorflow/contrib/layers/python/layers/'.
 
 # Saliency maps and performance
 
@@ -17,7 +17,7 @@ We provide [results](https://pan.baidu.com/s/1OSDsj9FCLZHMiTSGCPQ1Ww) (code: lau
 </div>
 
 # Training
-1. Download the pre-trained vgg-16 model and mpi model and put them under `./models` folder.
+1. Download the pre-trained vgg-16 model and mpi model and put them under './models' folder.
 
 # Test using pre-trained model
 1. Download the [TestSet](https://pan.baidu.com/s/1t-GpIHECWM5Gz87Pe18n7g) (code: iz55) and put it under './dataset/'.
