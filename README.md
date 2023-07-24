@@ -5,7 +5,7 @@ The code and results will come in soon.
 
 # Saliency maps and performance
 
-We provide [results]https://pan.baidu.com/s/1OSDsj9FCLZHMiTSGCPQ1Ww (code: lau2) of our CDINet on 3 datasets (HFUT-Lytro Illum, HFUT-Lytro and DUTLF-V2)
+We provide [results](https://pan.baidu.com/s/1OSDsj9FCLZHMiTSGCPQ1Ww) (code: lau2) of our CDINet on 3 datasets (HFUT-Lytro Illum, HFUT-Lytro and DUTLF-V2)
 <div align=center>
   <img src="https://github.com/GilbertRC/LFSOD-CDINet/blob/main/Images/CDINet.png">
 </div>
