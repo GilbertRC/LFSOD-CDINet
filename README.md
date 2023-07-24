@@ -17,6 +17,7 @@ We provide [results](https://pan.baidu.com/s/1OSDsj9FCLZHMiTSGCPQ1Ww) (code: lau
 </div>
 
 # Training
+1. Download the pre-trained vgg-16 model and mpi model and put them under `./models` folder.
 
 # Test using pre-trained model
 1. Download the [TestSet](https://pan.baidu.com/s/1t-GpIHECWM5Gz87Pe18n7g) (code: iz55) and put it under './dataset/'.
