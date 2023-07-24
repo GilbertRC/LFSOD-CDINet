@@ -3,6 +3,9 @@ This project provides the code and results for 'Light Field Salient Object Detec
 
 The code will come in soon.
 
+# Requirements
+python 3.7 + TensorFlow 1.14.0
+
 # Saliency maps and performance
 
 We provide [results](https://pan.baidu.com/s/1OSDsj9FCLZHMiTSGCPQ1Ww) (code: lau2) of our CDINet on 3 datasets (HFUT-Lytro Illum, HFUT-Lytro and DUTLF-V2)
