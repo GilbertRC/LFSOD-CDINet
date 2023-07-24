@@ -6,6 +6,9 @@ The code will come in soon.
 # Requirements
 python 3.7 + TensorFlow 1.14.0
 
+Note: We find that the default TensorFlow 1.x cannot initialize Layer_Norm in the MPI network with the pre-trained parameters, so we add a function layer_norm_initialized() in the layer.py.
+You can put the [modified layer.py](https://pan.baidu.com/s/18d5XrK3LlIGjbWWsCFLVog) (code: 7d8i) under 'your_Anaconda3_path/envs/your_envs_name/Lib/site-packages/tensorflow/contrib/layers/python/layers/'.
+
 # Saliency maps and performance
 
 We provide [results](https://pan.baidu.com/s/1OSDsj9FCLZHMiTSGCPQ1Ww) (code: lau2) of our CDINet on 3 datasets (HFUT-Lytro Illum, HFUT-Lytro and DUTLF-V2)
