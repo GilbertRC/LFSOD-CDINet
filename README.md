@@ -21,7 +21,7 @@ We provide [results](https://pan.baidu.com/s/1OSDsj9FCLZHMiTSGCPQ1Ww) (code: lau
 # Test using pre-trained model
 1. Download the [TestSet](https://pan.baidu.com/s/1t-GpIHECWM5Gz87Pe18n7g) (code: iz55) and put it under './dataset/'.
 2. Download the following pre-trained models and put them under './checkpoints/'. [model_HFUT]  [model_DUTLF-V2]
-3. Run test.py (default to HFUT-Lytro Illum and HFUT-Lytro datasets).
+3. Run test.py (In the paper, we use model_HFUT for the HFUT-Lytro Illum and HFUT-Lytro datasets and model_DUTLF-V2 for the DUTLF-V2 dataset).
 
 # Citation
 ```
