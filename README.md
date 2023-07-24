@@ -13,6 +13,10 @@ We provide [results](https://pan.baidu.com/s/1OSDsj9FCLZHMiTSGCPQ1Ww) (code: lau
   <img src="https://github.com/GilbertRC/LFSOD-CDINet/blob/main/Images/CDINet.png">
 </div>
 
+# Training
+
+# Test using pre-trained model
+
 # Citation
 ```
 @ARTICLE{Chen_2023_CDINet,
