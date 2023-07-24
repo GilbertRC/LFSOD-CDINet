@@ -6,7 +6,7 @@ The code will come in soon.
 # Requirements
 python 3.7 + TensorFlow 1.14.0
 
-Note: We provide a modified [layer.py](https://pan.baidu.com/s/18d5XrK3LlIGjbWWsCFLVog) (code: 7d8i) for TensorFlow. The added 'layer_norm_initialized()' enables initializing Layer_Norm with the pre-trained parameters.
+Note: We provide a modified [layer.py](https://pan.baidu.com/s/18d5XrK3LlIGjbWWsCFLVog) (code: 7d8i) for TensorFlow 1.x. The added function 'layer_norm_initialized()' enables initializing Layer_Norm with the pre-trained parameters.
 You can put it under 'your_Anaconda_envs/Lib/site-packages/tensorflow/contrib/layers/python/layers/'.
 
 # Saliency maps and performance
