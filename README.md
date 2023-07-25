@@ -18,7 +18,7 @@ We provide [results](https://pan.baidu.com/s/1OSDsj9FCLZHMiTSGCPQ1Ww) (code: lau
 
 # Training
 1. Download the pre-trained [vgg-16 model](https://pan.baidu.com/s/1ZJKXk2zR-Mv8Aq5YYifm0g) (code: kq1o) and [mpi model](https://pan.baidu.com/s/1eGziqgmrC9VGQpHasEW4IA) (code: c3tj) and put them under './models/' folder.
-2. Download the TrainingSet and put it under './dataset/' folder.
+2. Download the [TrainingSet](https://pan.baidu.com/s/1HNWVOFEkIOPUz3u2s3AhCQ) (code: t7gt) and put it under './dataset/' folder.
 
 # Test using pre-trained model
 1. Download the [TestSet](https://pan.baidu.com/s/17FNkxtXYBTtLJI8s5xy_gw) (code: hdl2) and put it under './dataset/' folder.
