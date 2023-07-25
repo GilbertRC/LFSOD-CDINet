@@ -6,17 +6,17 @@ This project provides the code and results for 'Light Field Salient Object Detec
 <img src="https://github.com/GilbertRC/LFSOD-CDINet/blob/main/Figs/Network.png">
 </div>
 
-## Saliency maps and performance
-We provide [results](https://pan.baidu.com/s/1OSDsj9FCLZHMiTSGCPQ1Ww) (code: lau2) of our CDINet on 3 datasets (HFUT-Lytro Illum, HFUT-Lytro and DUTLF-V2)
-<div align=center>
-  <img src="https://github.com/GilbertRC/LFSOD-CDINet/blob/main/Figs/Table.png">
-</div>
-
 ## Requirements
 python 3.7 + TensorFlow 1.14.0
 
 Note: We provide a modified [layer.py](https://pan.baidu.com/s/18d5XrK3LlIGjbWWsCFLVog) (code: 7d8i) for TensorFlow 1.14.0. The added `layer_norm_initialized()` enables initializing Layer_Norm with pre-trained parameters.
 You can put it under 'your_Anaconda_envs/Lib/site-packages/tensorflow/contrib/layers/python/layers/' folder.
+
+## Saliency maps and performance
+We provide [results](https://pan.baidu.com/s/1OSDsj9FCLZHMiTSGCPQ1Ww) (code: lau2) of our CDINet on 3 datasets (HFUT-Lytro Illum, HFUT-Lytro and DUTLF-V2)
+<div align=center>
+  <img src="https://github.com/GilbertRC/LFSOD-CDINet/blob/main/Figs/Table.png">
+</div>
 
 ## Training
 1. Download the pre-trained [vgg-16 model](https://pan.baidu.com/s/1ZJKXk2zR-Mv8Aq5YYifm0g) (code: kq1o) and [mpi model](https://pan.baidu.com/s/1eGziqgmrC9VGQpHasEW4IA) (code: c3tj) and put them under './models/' folder.
