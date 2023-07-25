@@ -13,8 +13,8 @@ Note: We provide a modified [layer.py](https://pan.baidu.com/s/18d5XrK3LlIGjbWWs
 You can put it under 'your_Anaconda_envs/Lib/site-packages/tensorflow/contrib/layers/python/layers/' folder.
 
 ## Training
-1. Download the pre-trained [vgg-16 model](https://pan.baidu.com/s/1ZJKXk2zR-Mv8Aq5YYifm0g) (code: kq1o) and [mpi model](https://pan.baidu.com/s/1eGziqgmrC9VGQpHasEW4IA) (code: c3tj) and put them under './models/' folder.
-2. Download the [TrainingSet](https://pan.baidu.com/s/1HNWVOFEkIOPUz3u2s3AhCQ) (code: t7gt) and put it under './dataset/' folder.
+1. Download the [TrainingSet](https://pan.baidu.com/s/1HNWVOFEkIOPUz3u2s3AhCQ) (code: t7gt) and put it under './dataset/' folder.
+2. Download the pre-trained [vgg-16 model](https://pan.baidu.com/s/1ZJKXk2zR-Mv8Aq5YYifm0g) (code: kq1o) and [mpi model](https://pan.baidu.com/s/1eGziqgmrC9VGQpHasEW4IA) (code: c3tj) and put them under './models/' folder.
 3. Run `train.py` (default to the HFUT-Lytro Illum dataset).
 
 ## Test using pre-trained model
