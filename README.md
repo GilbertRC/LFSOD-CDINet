@@ -1,6 +1,11 @@
 # LFSOD-CDINet
 This project provides the code and results for 'Light Field Salient Object Detection with Sparse Views via Complementary and Discriminative Interaction Network', IEEE TCSVT, 2023. [paper link](https://ieeexplore.ieee.org/document/10168184)
 
+## Network architecture
+<div align=center>
+  <img src="https://github.com/GilbertRC/LFSOD-CDINet/blob/main/Figs/Network.png">
+</div>
+
 ## Requirements
 python 3.7 + TensorFlow 1.14.0
 
@@ -8,10 +13,9 @@ Note: We provide a modified [layer.py](https://pan.baidu.com/s/18d5XrK3LlIGjbWWs
 You can put it under 'your_Anaconda_envs/Lib/site-packages/tensorflow/contrib/layers/python/layers/' folder.
 
 ## Saliency maps and performance
-
 We provide [results](https://pan.baidu.com/s/1OSDsj9FCLZHMiTSGCPQ1Ww) (code: lau2) of our CDINet on 3 datasets (HFUT-Lytro Illum, HFUT-Lytro and DUTLF-V2)
 <div align=center>
-  <img src="https://github.com/GilbertRC/LFSOD-CDINet/blob/main/Images/CDINet.png">
+  <img src="https://github.com/GilbertRC/LFSOD-CDINet/blob/main/Figs/Table.png">
 </div>
 
 ## Training
