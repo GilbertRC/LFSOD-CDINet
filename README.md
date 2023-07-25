@@ -28,13 +28,13 @@ Note: In the paper, we use model_HFUT to test the HFUT-Lytro Illum & HFUT-Lytro 
 
 ## Citation
 ```
-@ARTICLE{LFSOD-CDINet,
-  author = {Yilei Chen and Gongyang Li and Ping An and Zhi Liu and Xinpeng Huang and Qiang Wu},
+@ARTICLE{LFSOD-CDINet,  
   title = {Light Field Salient Object Detection with Sparse Views via Complementary and Discriminative Interaction Network},
-         journal = {IEEE Transactions on Circuits and Systems for Video Technology},
-         year = {2023},
-         doi = {10.1109/TCSVT.2023.3290600},
-         }            
+  author = {Yilei Chen and Gongyang Li and Ping An and Zhi Liu and Xinpeng Huang and Qiang Wu},
+  journal = {IEEE Transactions on Circuits and Systems for Video Technology},
+  year = {2023},
+  doi = {10.1109/TCSVT.2023.3290600},
+}            
 ```
 
 Any questions regarding this work can contact yileichen@shu.edu.cn.
