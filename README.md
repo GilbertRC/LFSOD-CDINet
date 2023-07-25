@@ -2,9 +2,7 @@
 This project provides the code and results for 'Light Field Salient Object Detection with Sparse Views via Complementary and Discriminative Interaction Network', IEEE TCSVT, 2023. [paper link](https://ieeexplore.ieee.org/document/10168184)
 
 ## Network architecture
-<div align=center>
-  <img src="https://github.com/GilbertRC/LFSOD-CDINet/blob/main/Figs/Network.png" width="600">
-</div>
+<img src="https://github.com/GilbertRC/LFSOD-CDINet/blob/main/Figs/Network.png" width="700">
 
 ## Requirements
 python 3.7 + TensorFlow 1.14.0
