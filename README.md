@@ -22,7 +22,7 @@ We provide [results](https://pan.baidu.com/s/1OSDsj9FCLZHMiTSGCPQ1Ww) (code: lau
 
 # Test using pre-trained model
 1. Download the [TestSet](https://pan.baidu.com/s/17FNkxtXYBTtLJI8s5xy_gw) (code: hdl2) and put it under './dataset/' folder.
-2. Download the pre-trained [model_HFUT](https://pan.baidu.com/s/11lqmaCoatJ4K-GquW1izyA) (code: k28i) and [model_DUTLF-V2](https://pan.baidu.com/s/1TKeAhc1GYHTGGc7bdwPL8w) (code: h8ou) and put them under './checkpoints/' folder. 
+2. Download our pre-trained [model_HFUT](https://pan.baidu.com/s/11lqmaCoatJ4K-GquW1izyA) (code: k28i) and [model_DUTLF-V2](https://pan.baidu.com/s/1TKeAhc1GYHTGGc7bdwPL8w) (code: h8ou) and put them under './checkpoints/' folder. 
 3. Run `test.py`. The SOD results will be saved under './results/' folder.
 
 Note: In the paper, we use model_HFUT to test the HFUT-Lytro Illum & HFUT-Lytro datasets and use model_DUTLF-V2 to test the DUTLF-V2 dataset.
