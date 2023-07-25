@@ -3,7 +3,7 @@ This project provides the code and results for 'Light Field Salient Object Detec
 
 ## Network architecture
 <div align=center>
-<img src="https://github.com/GilbertRC/LFSOD-CDINet/blob/main/Figs/Network.png" width=600>
+<img src="https://github.com/GilbertRC/LFSOD-CDINet/blob/main/Figs/Network.png">
 </div>
 
 ## Requirements
