@@ -36,8 +36,11 @@ We provide [results](https://pan.baidu.com/s/1OSDsj9FCLZHMiTSGCPQ1Ww) (code: lau
   title={Light Field Salient Object Detection with Sparse Views via Complementary and Discriminative Interaction Network},
   author={Yilei Chen and Gongyang Li and Ping An and Zhi Liu and Xinpeng Huang and Qiang Wu},
   journal={IEEE Transactions on Circuits and Systems for Video Technology},
-  year={2023},
-  doi={10.1109/TCSVT.2023.3290600}}            
+  year={2024},
+  volume={34},
+  number={2},
+  pages={1070-1085},
+  month={Feb.}}            
 ```
 
 Any questions regarding this work can contact yileichen@shu.edu.cn.
